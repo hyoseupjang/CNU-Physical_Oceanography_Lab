@@ -8,7 +8,6 @@ Captioned code written during Physical Oceanography Practice.
 
 ## Requirements
 numpy, matplotlib, basemap, xarray, gsw, dask,(Will be update)
-dask pip install "dask[complete]" toolz
 
 ## How to run these files? 
 터미널로 접속하거나 jupyter 상의 셀에 아래 줄들을 치세요. 후자의 경우는 매 앞 마다 !를 붙여야 합니다. 
