@@ -7,7 +7,7 @@ Captioned code written during Physical Oceanography Practice.
 이 곳에 있는 코드는 사용 시 GPL v3 라이선스에 의해 코드 원작자 표기의 의무, 변경 시 코드 공개의 의무, 재배포 시 GPL v3 라이선스 적용의 의무가 있습니다. **참조만 하고 과제는 자신이 하세요!**
 
 ## Requirements
-numpy, matplotlib, basemap, xarray, gsw, (Will be update)
+numpy, matplotlib, basemap, xarray, gsw, dask,(Will be update)
 
 ## How to run these files? 
 터미널로 접속하거나 jupyter 상의 셀에 아래 줄들을 치세요. 후자의 경우는 매 앞 마다 !를 붙여야 합니다. 
