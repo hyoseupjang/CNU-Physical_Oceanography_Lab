@@ -20,7 +20,14 @@ git clone https://github.com/hyoseupjang/CNU-Physical_Oceanography_Lab.git
 
 ## 목차
 1. 파이썬 기초: 조건문 및 반복문 (파일 제공 안 함) 
-2. 파이썬 기초: Numpy 및 행렬, Matplotlib 사용법 (파일 제공 안 함) 
-3. Argo float data 의 처리(xarray)와 플로팅(pyplot) 연습 및 gsw 라이브러리를 이용한 간단한 해수 속성 계산. **(03.ipynb)**
+1. 파이썬 기초: Numpy 및 행렬, Matplotlib 사용법 (파일 제공 안 함) 
+1. Argo float data 의 처리(xarray)와 플로팅(pyplot) 연습 및 gsw 라이브러리를 이용한 간단한 해수 속성 계산. **(03.ipynb)**
+1. NetCDF 데이터 다루기와 선형회귀: ERSST 데이터를 이용한 해수면 온도와 지구온난화의 관계 찾아보기. **(04.ipynb)**
 
 지속적으로 업데이트 예정. 
+
+## Data Credit 
+1. Extended Reconstructed Sea Surface Temperature (ERSST) v4
+https://www1.ncdc.noaa.gov/pub/data/cmb/ersst/v4/netcdf/
+1. Precipitation data
+ftp://ftp.cdc.noaa.gov/Datasets/cmap/std/precip.mon.mean.nc
