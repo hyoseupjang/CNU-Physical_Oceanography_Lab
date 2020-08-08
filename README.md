@@ -8,7 +8,10 @@ Captioned code written during Physical Oceanography Practice.
 
 ## Requirements
 numpy, matplotlib, basemap, xarray, gsw, dask,(Will be update)
+
 dask pip install "dask[complete]" toolz
+
+ffmpeg
 
 ## How to run these files? 
 터미널로 접속하거나 jupyter 상의 셀에 아래 줄들을 치세요. 후자의 경우는 매 앞 마다 !를 붙여야 합니다. 
@@ -23,6 +26,11 @@ git clone https://github.com/hyoseupjang/CNU-Physical_Oceanography_Lab.git
 1. 파이썬 기초: Numpy 및 행렬, Matplotlib 사용법 (파일 제공 안 함) 
 1. Argo float data 의 처리(xarray)와 플로팅(pyplot) 연습 및 gsw 라이브러리를 이용한 간단한 해수 속성 계산. **(03.ipynb)**
 1. NetCDF 데이터 다루기와 선형회귀: ERSST 데이터를 이용한 해수면 온도와 지구온난화의 관계 찾아보기. **(04.ipynb)**
+1. 코리올리 힘의 작용을 에니메이트하기: 해석적 방법과 수치적 방법. **(05.ipynb)**
+1. 조석(tide)분석하기: FFT와 pytide 사용하기. **(06.ipynb)**
+1. Cosine weighting의 이해: 대기열수지로 확인해보기. 
+1. 엘리뇨-남방진동(ENSO)와 기후현상: SST와 강수량에 대해 분석해보기. 
+1. Thermal Wind의 계산: 동해 자료로 계산해보기. 
 
 지속적으로 업데이트 예정. 
 
