@@ -30,6 +30,7 @@ git clone https://github.com/hyoseupjang/CNU-Physical_Oceanography_Lab.git
 1. Extended Reconstructed Sea Surface Temperature (ERSST) v4
 
 https://www1.ncdc.noaa.gov/pub/data/cmb/ersst/v4/netcdf/
-1. Precipitation data
+
+2. CPC Merged Analysis of Precipitation
 
 ftp://ftp.cdc.noaa.gov/Datasets/cmap/std/precip.mon.mean.nc
